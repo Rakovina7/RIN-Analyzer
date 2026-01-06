@@ -1,0 +1,8 @@
+PyQt6
+biopython
+plotly
+networkx
+pandas
+scipy
+scikit-learn
+numpy

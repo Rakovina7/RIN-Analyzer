@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Sanal Ortamlar (varsa)
+venv/
+env/
+
+# PyInstaller Çıktıları (Exe'yi repoya atma, Release kısmına koyacağız)
+build/
+dist/
+*.spec
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Büyük geçici dosyalar
+*.log

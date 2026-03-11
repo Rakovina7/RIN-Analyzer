@@ -17,3 +17,5 @@ dist/
 
 # Büyük geçici dosyalar
 *.log
+# macOS
+.DS_Store
